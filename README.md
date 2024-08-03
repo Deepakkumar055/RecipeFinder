@@ -1,8 +1,3 @@
-﻿# RecipeFinder
-Sure, here's the revised version with the opening line as you requested:
-
----
-
 Hey Connections,
 
 🚀 Excited to share my latest project: a Recipe Finder app! Built with the power of React, Redux Toolkit, and a suite of other advanced tools and libraries, this app exemplifies modern web development practices.
